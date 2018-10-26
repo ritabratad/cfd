@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lordadg/.gradle/caches/modules-2/files-2.1/com.microsoft.azure/azure-notifications-handler/1.0.1/c322af100020e6db539f2aa367698d4b88fc453f/azure-notifications-handler-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c322af100020e6db539f2aa367698d4b88fc453f">
+        <dex dex="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/azure-notifications-handler-1.0.1_7796fc2e18dc4944acc7c491031a27f58ff44d46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lordadg/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_9b38302abb141288472419feec0fb2cdf7c2c87f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lordadg/.android/build-cache/869a2487cb084ea87bf02de1d014d9cba28837b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5ed05574ca7f8eeba9980f82e7acdd610f1b44b">
+        <dex dex="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_849652f64aacf95693cbc2330bfa20925f13b435/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lordadg/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_d621ce0ed149bba176e2aa33962713bcac8d0db8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lordadg/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.1.3_8e3a721bb31b8fea77fae143e5bb4d462c225d4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_99a8aec77e27c1af603e877bf2ae53c59535b914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lordadg/.android/build-cache/925d6b3613967921fc6739afdc928d20c9359f27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f67b0729c140c0df8236ab0396d02edd8440ed5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lordadg/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_eac9660b7684d71ad067053cdc802e3570930b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lordadg/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_4c585fb307ef9675f93000b2804c240040e88b43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f16e1cb4cc139967f34f332642cddb0ff2f9c20f">
+        <dex dex="/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_89024fb2df6c8c45d117efda52487cec0bbcdfd1/classes.dex" />
+    </item>
+
+</items>

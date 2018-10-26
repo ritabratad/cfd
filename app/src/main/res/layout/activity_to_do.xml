@@ -1,16 +1,19 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/LinearLayout1"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    >
+    android:layout_height="match_parent">
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:background="#71BCFA"
-        android:padding="6dip" >
+        android:padding="6dip"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
         <TextView
             android:id="@+id/textViewTitle"
@@ -18,7 +21,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="2dp"
             android:layout_weight="0.12"
-            android:text="@string/service_title"
+            android:text="Resource Track"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <ProgressBar
@@ -27,39 +30,34 @@
             android:layout_height="28dp" />
     </LinearLayout>
 
-     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="#71BCFA"
-        android:padding="6dip"  >
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="123dp"
+        android:layout_height="92dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="148dp"
+        android:text="Track  Resources"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.195"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
-        <EditText
-            android:id="@+id/textNewToDo"
-            android:layout_width="0dip"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:ems="10"
-            android:hint="@string/add_textbox_hint" >
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="129dp"
+        android:layout_height="83dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="Add Resources"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.87"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.33" />
 
-            <requestFocus />
-       </EditText>
-
-        <Button
-            android:id="@+id/buttonAddToDo"
-            android:layout_width="64dip"
-            android:layout_height="wrap_content"
-            android:onClick="addItem"
-            android:text="@string/add_button_text" />
-
-    </LinearLayout>
-
-    <ListView
-        android:id="@+id/listViewToDo"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        tools:listitem="@layout/row_list_to_do"
-        android:padding="6dip" >
-
-    </ListView>
-
-</LinearLayout>
+</android.support.constraint.ConstraintLayout>

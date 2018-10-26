@@ -1,0 +1,25 @@
+#Fri Oct 26 21:12:37 IST 2018
+renamed.7=classes2.dex
+renamed.6=classes4.dex
+renamed.5=classes7.dex
+renamed.4=classes6.dex
+renamed.3=classes3.dex
+renamed.2=classes.dex
+renamed.1=classes5.dex
+renamed.0=classes8.dex
+base.7=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/azure-notifications-handler-1.0.1_7796fc2e18dc4944acc7c491031a27f58ff44d46
+base.6=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_4c585fb307ef9675f93000b2804c240040e88b43
+base.5=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.1.3_8e3a721bb31b8fea77fae143e5bb4d462c225d4b
+base.4=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_d621ce0ed149bba176e2aa33962713bcac8d0db8
+base.3=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f67b0729c140c0df8236ab0396d02edd8440ed5
+base.2=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_eac9660b7684d71ad067053cdc802e3570930b68
+base.1=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_9b38302abb141288472419feec0fb2cdf7c2c87f
+base.0=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_849652f64aacf95693cbc2330bfa20925f13b435
+file.7=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/azure-notifications-handler-1.0.1_7796fc2e18dc4944acc7c491031a27f58ff44d46/classes.dex
+file.6=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_4c585fb307ef9675f93000b2804c240040e88b43/classes.dex
+file.5=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.1.3_8e3a721bb31b8fea77fae143e5bb4d462c225d4b/classes.dex
+file.4=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_d621ce0ed149bba176e2aa33962713bcac8d0db8/classes.dex
+file.3=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f67b0729c140c0df8236ab0396d02edd8440ed5/classes.dex
+file.2=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_eac9660b7684d71ad067053cdc802e3570930b68/classes.dex
+file.1=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_9b38302abb141288472419feec0fb2cdf7c2c87f/classes.dex
+file.0=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_849652f64aacf95693cbc2330bfa20925f13b435/classes.dex

@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Oct 26 11:51:16 IST 2018
+2.base=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_to_do.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_/res/layout/row_list_to_do.xml
+1.set=ANDROID_RESOURCE
+2.file=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.base=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/lordadg/AndroidStudioProjects/resourcetrack1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+0.set=ANDROID_RESOURCE
